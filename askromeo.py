@@ -1,7 +1,7 @@
 #!python3
 # askromeo.py
 # LLM that inventes Shakespearian word salad
-# (C) 2024: Alex Hanselman Part User Interaction and modell access
+# (C) 2024: A. Hanselmann Part User Interaction and modell access
 # based on 2024, Machine Learning Course for Physicist Unibas (CH)
 # version 0.12, 2024-09
 #
@@ -263,8 +263,9 @@ class romeoPrompt:
 
     # messages and informations
     welcomemsg = '''
-Large Language Model loaded. It's trained on Shakespeares language. It
-adds to given user input invented words from the LLM.
+Prompt Interfact for Large Language Model (loaded). 
+The model is trained on Shakespeares language. The user can enter words that are rephrased and processed as if they were question in a Shakespeare Text. 
+The LLM inventes words and sentences to this question or prompt.
 No responsability for the output is assumed.
 Use '*' for help.
 Try: 'Multi-layer perceptrons are' or 'I am hungry.'.
@@ -287,7 +288,8 @@ Either MENEIUS, GLOUCESTER or DUKE VINCENTIO ask him in your place.
 Tips: When you press Enter, the last input is reused.
 Try 'Ay! Can't you help?' or '=30' for short answers and enter '?'
 
-LLM is based on exercise in course Contemporary Machine Learning, University of Basel, 2024. The model was trained on Data from the Project Gutenberg.
+LLM is based on exercise in course Contemporary Machine Learning, University of Basel, 2024. It contains code from Andrei Karpathy's Youtube course. 
+No responsability for the output is assumed.The model was trained on Data from the Project Gutenberg.
 '''
     # randomLists
     # they gonna ask 'ROMEO:'
