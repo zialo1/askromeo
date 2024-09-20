@@ -3,11 +3,9 @@ Python Programm. A Prompt/Interface to Pytorch LLM Model
 
 ## What it is
 
-Prompt Interface for Large Language Model. The model is trained on Shakespeares language. The user can enter words that are rephrased and processed as if they were question in a Shakespeare Text. 
+This programm is a Prompt or interface for torch Large Language Models. The model given here is trained on Shakespeares language. The programm loads this model, then askromeo asks's the user for his words which are rephrased and processed as if they were question in a Shakespeare Text. From there on the LLM inventes how the book could continue.
 The LLM inventes words and sentences to this question or prompt.
-
-No responsability for the output is assumed.
-Use '*' for help.
+Use '*' for help when the program is running.
 
 ## References
 LLM is based on exercise in course Contemporary Machine Learning, University of Basel, 2024. It contains code from Andrei Karpathy's Youtube course. The model was trained on Data from the Project Gutenberg.
