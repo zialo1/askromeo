@@ -3,7 +3,7 @@ Python Programm. A Prompt/Interface to Pytorch LLM Model
 
 ## What it is
 
-Prompt Interfact for Large Language Model. The model is trained on Shakespeares language. The user can enter words that are rephrased and processed as if they were question in a Shakespeare Text. 
+Prompt Interface for Large Language Model. The model is trained on Shakespeares language. The user can enter words that are rephrased and processed as if they were question in a Shakespeare Text. 
 The LLM inventes words and sentences to this question or prompt.
 
 No responsability for the output is assumed.
