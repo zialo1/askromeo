@@ -3,6 +3,7 @@
 # LLM that inventes Shakespearian word salad
 # (C) 2024: A. Hanselmann Part User Interaction and modell access
 # based on 2024, Machine Learning Course for Physicist Unibas (CH)
+# based on Andreji Karpathys Code and his Course "Let's build GPT: from scratch, in code, spelled out"
 # version 0.12, 2024-09
 #
 # ------------------------------------------
