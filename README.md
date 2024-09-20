@@ -20,7 +20,8 @@ No responsability for the output is assumed.
 ### Install
 install python
 install torch, numpy
-save the file model_statedict_40914 in the same directory as the script.
+### Save the model
+save the file 'model_statedict_40914' in the same directory as the script.
 
 ### First-Run
 run "python3 askromeo.py"
