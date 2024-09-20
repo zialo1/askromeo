@@ -1,5 +1,5 @@
 # askromeo
-Prompt/Interface to Pytorch LLM Model
+Python Programm. A Prompt/Interface to Pytorch LLM Model
 
 ## What it is
 
