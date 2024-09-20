@@ -34,6 +34,3 @@ press '*' while the program runs.
 the class romeoPrompt needs to initialized with the model as parameter. The functions encoder, the decoder and a list of chars of the input are also needed for the initialization of the class.
 You can use the interface in REPL mode or replace this line in the section main.
 In REPL mode use the interface functions: processcmd , mode2askromeo or mode1prepare with strings as arguments.
-
-
-## Help
